@@ -1,0 +1,88 @@
+{
+  "name": "Credit Card Customers - Professional Theme",
+  "dataColors": [
+    "#1677C8",
+    "#173B8F",
+    "#14A3A5",
+    "#E5A93D",
+    "#7656A5",
+    "#D96C5F",
+    "#5A8F78",
+    "#718096",
+    "#A7C7E7",
+    "#C58AA6"
+  ],
+  "background": "#F3F6FA",
+  "foreground": "#172B4D",
+  "tableAccent": "#1677C8",
+  "good": "#16865B",
+  "neutral": "#E5A93D",
+  "bad": "#D9534F",
+  "maximum": "#1677C8",
+  "center": "#DCEAF7",
+  "minimum": "#F3F6FA",
+  "null": "#B8C4D1",
+  "textClasses": {
+    "title": {
+      "fontFace": "Arial",
+      "fontSize": 14,
+      "color": "#172B4D"
+    },
+    "header": {
+      "fontFace": "Arial",
+      "fontSize": 12,
+      "color": "#172B4D"
+    },
+    "label": {
+      "fontFace": "Arial",
+      "fontSize": 10,
+      "color": "#52657A"
+    },
+    "callout": {
+      "fontFace": "Arial",
+      "fontSize": 28,
+      "color": "#16865B"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Arial",
+            "fontSize": 12,
+            "color": {
+              "solid": {
+                "color": "#172B4D"
+              }
+            },
+            "alignment": "center"
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#DCE4ED"
+              }
+            },
+            "radius": 8
+          }
+        ]
+      }
+    }
+  }
+}
