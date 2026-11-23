@@ -1,11 +1,11 @@
-Credit Card Financial & Customer Analytics Dashboard | Power BI
-Overview
+# Credit Card Financial & Customer Analytics Dashboard | Power BI
+# Overview
 
 An end-to-end Credit Card Analytics Dashboard developed in Power BI to analyze revenue performance, customer spending behavior, transaction trends, card portfolio performance, geographic contribution, and delinquency risk.
 
 The project converts customer and transaction data into actionable insights that support business growth, customer retention, portfolio optimization, and risk monitoring.
 
-Project Workflow
+# Project Workflow
 Plain Text
 Customer Dataset + Transaction Dataset
 ↓
@@ -17,7 +17,7 @@ DAX Calculations
 ↓
 Power BI Dashboard
 ↓
-Insights & Recommendations
+# Insights & Recommendations
 Tools & Technologies
 Power BI
 Power Query
@@ -52,7 +52,7 @@ Credit-Card-Financial-Analytics/
 │ └── Transaction_Report.png
 │
 └── README.md
-Business Objectives
+# Business Objectives
 Monitor revenue, interest income, and annual fee performance.
 Identify high-value customer segments.
 Analyze card category performance.
@@ -63,7 +63,7 @@ Support customer acquisition, retention, and cross-sell strategies.
 Dashboard Pages
 1. Credit Card Transaction Report
 
-KPIs
+# KPIs
 
 Revenue: $55.32M
 Total Interest: $45M
@@ -144,7 +144,7 @@ Executive Summary
 
 This project analyzed $55.3M in portfolio revenue, $45M in interest income, and a 6.07% delinquency rate to evaluate customer behavior, transaction patterns, card portfolio performance, geographic contribution, and risk exposure. The analysis identified high-value customer segments, top-performing regions, and opportunities for revenue growth, customer retention, portfolio optimization, and delinquency reduction.
 
-Author
+# Author
 
 Shubham Kumar Jha
 Aspiring Data Analyst | Power BI | SQL | Excel | Tableau | Python
